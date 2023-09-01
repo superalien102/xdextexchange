@@ -128,7 +128,7 @@ export const useMainMenuContent = () => {
         openInNewTab('https://xdextool.io');
       },
     },
-    /* {
+    {
       label: t('navbar.navbarMenu.support'),
       prefixIcon: <Discord color={theme.palette.white.main} />,
       onClick: () => {
@@ -140,9 +140,9 @@ export const useMainMenuContent = () => {
             EventTrackingTool.Raleon,
           ],
         });
-        onOpenSupportModal(true);
+        onOpenSupportModal(false);
       },
       showButton: true,
-    }, */
+    }, 
   ];
 };
