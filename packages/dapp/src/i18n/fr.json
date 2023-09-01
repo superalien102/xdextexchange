@@ -2,7 +2,7 @@
   "navbar": {
     "welcome": {
       "title": "Trouvez la meilleure route",
-      "subtitle": "<0>4x audit</0> agrégateur de liquidité multi-chaînes alimenté par <1>LI.FI</1>",
+      "subtitle": "<0>4x audit</0> agrégateur de liquidité multi-chaînes alimenté par <1>XDEXT</1>",
       "cta": "Commencer"
     },
     "links": {
@@ -21,7 +21,7 @@
     "navbarMenu": {
       "theme": "Thème",
       "developers": "Développeurs",
-      "aboutLIFI": "À propos de LI.FI",
+      "aboutLIFI": "À propos de XDEXT",
       "support": "Support"
     },
     "walletMenu": {

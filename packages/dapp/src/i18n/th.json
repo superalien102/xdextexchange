@@ -2,7 +2,7 @@
   "navbar": {
     "welcome": {
       "title": "หาเส้นทางที่ดีที่สุด",
-      "subtitle": "4x ในการตรวจสอบหลายเชนโดย LI.FI",
+      "subtitle": "4x ในการตรวจสอบหลายเชนโดย XDEXT",
       "cta": "เริ่มต้นใช้งาน"
     },
     "links": {
@@ -21,7 +21,7 @@
     "navbarMenu": {
       "theme": "ธีม",
       "developers": "ผู้พัฒนา",
-      "aboutLIFI": "เกี่ยวกับ LI.FI",
+      "aboutLIFI": "เกี่ยวกับ XDEXT",
       "support": "สนับสนุน"
     },
     "walletMenu": {

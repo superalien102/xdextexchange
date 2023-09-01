@@ -2,7 +2,7 @@
   "navbar": {
     "welcome": {
       "title": "Find the best route",
-      "subtitle": "<0>4x audited</0> multi-chain liquidity aggregator powered by <1>LI.FI</1>",
+      "subtitle": "<0>4x audited</0> multi-chain liquidity aggregator powered by <1>XDEXT</1>",
       "cta": "Get started"
     },
     "links": {
@@ -21,7 +21,7 @@
     "navbarMenu": {
       "theme": "Theme",
       "developers": "Developers",
-      "aboutLIFI": "About LI.FI",
+      "aboutLIFI": "About XDEXT",
       "support": "Support"
     },
     "walletMenu": {

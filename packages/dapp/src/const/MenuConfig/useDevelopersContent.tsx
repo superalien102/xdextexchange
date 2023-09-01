@@ -49,7 +49,7 @@ export const useDevelopersContent = () => {
       label: t('navbar.developers.documentation'),
       prefixIcon: <DescriptionOutlinedIcon />,
       onClick: () => {
-        const docsUrl = 'https://docs.li.fi/';
+        const docsUrl = 'https://docs.xdextool.io/';
         openInNewTab(docsUrl);
         trackPageload({
           source: 'menu',

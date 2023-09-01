@@ -118,14 +118,14 @@ export const useMainMenuContent = () => {
         trackPageload({
           source: 'menu',
           destination: 'lifi-website',
-          url: 'https://li.fi',
+          url: 'https://xdextool.io',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,
             EventTrackingTool.Raleon,
           ],
         });
-        openInNewTab('https://li.fi');
+        openInNewTab('https://xdextool.io');
       },
     },
     {
