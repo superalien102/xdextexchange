@@ -8,20 +8,8 @@ interface LifiSmallLogoProps {
 
 export function LifiSmallLogo({ color, style }: LifiSmallLogoProps) {
   return (
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="24"
-      height="24"
-      fill="none"
-      style={{ ...style }}
-      viewBox="0 0 24 24"
-    >
-      <path
-        fill={color || '#000'}
-        fillRule="evenodd"
-        d="M8.86 8.616 7.35 5.522c-.14-.3 0-.616.334-.686L18.37 2.269c.333-.088.596.14.596.475v3.973a.506.506 0 0 1-.368.475l-8.51 2.04c-.455.105-.841.58-.841 1.054l-.018 3.411c0 .352-.28.721-.631.791L6 15.086c-.544.123-1-.228-1-.791v-3.323c0-.352.28-.703.632-.791l2.79-.65c.438-.089.63-.51.438-.915Zm-3.474 8.176 5.772-1.337c.509-.123.737-.597.509-1.072l-1.334-2.76c-.21-.44 0-.897.474-1.003l7.597-1.81c.333-.088.596.14.596.474v3.675c0 .387-.316.773-.684.861l-5.263 1.266c-.51.106-.737.598-.51 1.073L14 19.165c.14.3 0 .616-.333.686l-8.053 1.864c-.333.07-.597-.141-.597-.475v-3.974c0-.21.158-.421.369-.474Z"
-        clipRule="evenodd"
-      />
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="32" height="32" viewBox="0 0 48 48">
+<linearGradient id="OdX3C1xulekUyisLoPB4ba_BKCQPf8biWWs_gr1" x1="12.686" x2="35.58" y1="4.592" y2="41.841" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#33bef0"></stop><stop offset="1" stop-color="#0a85d9"></stop></linearGradient><path fill="url(#OdX3C1xulekUyisLoPB4ba_BKCQPf8biWWs_gr1)" d="M42,8H6c-1.105,0-2,0.895-2,2v26c0,1.105,0.895,2,2,2h8v7.998	c0,0.891,1.077,1.337,1.707,0.707L24.412,38H42c1.105,0,2-0.895,2-2V10C44,8.895,43.105,8,42,8z"></path><path d="M22,34h4c0.552,0,1-0.448,1-1V21c0-0.552-0.448-1-1-1h-4c-0.552,0-1,0.448-1,1v12	C21,33.552,21.448,34,22,34z" opacity=".05"></path><path d="M22.227,33.5h3.547c0.401,0,0.727-0.325,0.727-0.727V21.227c0-0.401-0.325-0.727-0.727-0.727h-3.547	c-0.401,0-0.727,0.325-0.727,0.727v11.547C21.5,33.175,21.825,33.5,22.227,33.5z" opacity=".07"></path><radialGradient id="OdX3C1xulekUyisLoPB4bb_BKCQPf8biWWs_gr2" cx="-71.449" cy="44.231" r="5.108" gradientTransform="matrix(.7808 0 0 .7066 79.788 -15.853)" gradientUnits="userSpaceOnUse"><stop offset=".516"></stop><stop offset="1" stop-opacity="0"></stop></radialGradient><ellipse cx="24" cy="15.402" fill="url(#OdX3C1xulekUyisLoPB4bb_BKCQPf8biWWs_gr2)" opacity=".15" rx="3.988" ry="3.609"></ellipse><path fill="#fff" d="M24,17.732c1.7,0,2.65-1.068,2.65-2.388C26.65,14.024,25.647,13,24,13s-2.65,1.024-2.65,2.344	C21.35,16.664,22.3,17.732,24,17.732z"></path><rect width="4" height="12" x="22" y="21" fill="#fff"></rect>
+</svg>
   );
 }

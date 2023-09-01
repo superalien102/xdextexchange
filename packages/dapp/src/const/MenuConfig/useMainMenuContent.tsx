@@ -62,11 +62,11 @@ export const useMainMenuContent = () => {
       prefixIcon: <TwitterIcon />,
       showMoreIcon: false,
       onClick: () => {
-        openInNewTab('https://twitter.com/xdextool');
+        openInNewTab('https://twitter.com/xdextools');
         trackPageload({
           source: 'menu',
           destination: 'twitter-xdextool',
-          url: 'https://twitter.com/xdextool',
+          url: 'https://twitter.com/xdextools',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,
@@ -76,7 +76,7 @@ export const useMainMenuContent = () => {
       },
     },
     {
-      label: 'Discord',
+      label: 'Telegram',
       prefixIcon: (
         <Discord
           color={
@@ -88,11 +88,11 @@ export const useMainMenuContent = () => {
       ),
       showMoreIcon: false,
       onClick: () => {
-        openInNewTab('https://discord.gg/xdextools');
+        openInNewTab('https://t.me/xdextools');
         trackPageload({
           source: 'menu',
           destination: 'discord-xdextools',
-          url: 'https://discord.gg/xdextools',
+          url: 'https://t.me/xdextools',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,
@@ -128,7 +128,7 @@ export const useMainMenuContent = () => {
         openInNewTab('https://xdextool.io');
       },
     },
-    {
+    /* {
       label: t('navbar.navbarMenu.support'),
       prefixIcon: <Discord color={theme.palette.white.main} />,
       onClick: () => {
@@ -143,6 +143,6 @@ export const useMainMenuContent = () => {
         onOpenSupportModal(true);
       },
       showButton: true,
-    },
+    }, */
   ];
 };
