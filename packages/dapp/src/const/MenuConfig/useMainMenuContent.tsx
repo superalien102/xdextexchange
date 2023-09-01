@@ -62,11 +62,11 @@ export const useMainMenuContent = () => {
       prefixIcon: <TwitterIcon />,
       showMoreIcon: false,
       onClick: () => {
-        openInNewTab('https://twitter.com/JumperExchange');
+        openInNewTab('https://twitter.com/xdextool');
         trackPageload({
           source: 'menu',
-          destination: 'twitter-JumperExchange',
-          url: 'https://twitter.com/JumperExchange',
+          destination: 'twitter-xdextool',
+          url: 'https://twitter.com/xdextool',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,

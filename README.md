@@ -2,13 +2,13 @@
 
 [![license](https://img.shields.io/badge/license-Apache%202-blue)](/LICENSE.md)
 [![Crowdin](https://badges.crowdin.net/jumper-exchange/localized.svg)](https://crowdin.com/project/jumper-exchange)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/JumperExchange.svg?label=follow+Jumper.Exchange)](https://twitter.com/JumperExchange)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/JumperExchange.svg?label=follow+exchange.xdextool.io)](https://twitter.com/JumperExchange)
 
 </div>
 
-# Jumper.Exchange
+# exchange.xdextool.io
 
-Lerna Monorepo for all jumper.exchange related things
+Lerna Monorepo for all exchange.xdextool.io related things
 
 ## Getting Started
 
@@ -40,7 +40,7 @@ Please refer to the following descriptions of the dev serve scripts:
 
 ### packages/dapp/
 
-This is the jumper.exchange page that gets deployed to `develop.jumper.exchange`, `staging.jumper.exchange` and `jumper.exchange`. This is a vite.js app
+This is the exchange.xdextool.io page that gets deployed to `develop.exchange.xdextool.io`, `staging.exchange.xdextool.io` and `exchange.xdextool.io`. This is a vite.js app
 
 ### packages/shared/
 

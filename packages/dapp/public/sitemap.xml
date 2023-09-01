@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jumper.exchange/</loc>
+    <loc>https://exchange.xdextool.io/</loc>
     <lastmod>2023-01-24</lastmod>
   </url>
   <url>
-    <loc>https://jumper.exchange/swap</loc>
+    <loc>https://exchange.xdextool.io/swap</loc>
     <lastmod>2023-01-24</lastmod>
   </url>
   <url>
-    <loc>https://jumper.exchange/gas</loc>
+    <loc>https://exchange.xdextool.io/gas</loc>
     <lastmod>2023-01-24</lastmod>
   </url>
   <url>
-    <loc>https://jumper.exchange/refuel</loc>
+    <loc>https://exchange.xdextool.io/refuel</loc>
     <lastmod>2023-01-24</lastmod>
   </url>
 </urlset>
