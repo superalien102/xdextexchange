@@ -30,7 +30,7 @@ export const useMainMenuContent = () => {
       ) : (
         <LightModeOutlinedIcon />
       ),
-      url: 'https://github.com/lifinance/',
+      url: 'https://github.com/xdextool/',
       triggerSubMenu: MenuKeys.Themes,
     },
     {

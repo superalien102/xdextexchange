@@ -30,11 +30,11 @@ export const useDevelopersContent = () => {
         />
       ),
       onClick: () => {
-        const githubUrl = 'https://github.com/lifinance/';
+        const githubUrl = 'https://github.com/xdextool.io/';
         openInNewTab(githubUrl);
         trackPageload({
           source: 'menu',
-          destination: 'lifi-github',
+          destination: 'xdextool-github',
           url: githubUrl,
           pageload: true,
           disableTrackingTool: [
@@ -53,7 +53,7 @@ export const useDevelopersContent = () => {
         openInNewTab(docsUrl);
         trackPageload({
           source: 'menu',
-          destination: 'lifi-docs',
+          destination: 'xdextool-docs',
           url: docsUrl,
           pageload: true,
           disableTrackingTool: [
@@ -64,11 +64,11 @@ export const useDevelopersContent = () => {
         onCloseAllNavbarMenus();
       },
     },
-    {
+    /* {
       label: t('navbar.developers.showcases'),
       prefixIcon: <SlideshowIcon />,
       showMoreIcon: true,
       triggerSubMenu: MenuKeys.Showcases,
-    },
+    }, */
   ];
 };

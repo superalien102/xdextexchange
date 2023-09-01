@@ -12,7 +12,7 @@ export const useShowcasesContent = () => {
   );
 
   return [
-    {
+    /* {
       label: t('navbar.showcases.ukraineDonation'),
       onClick: () => {
         const ukraineUrl = 'https://transferto.xyz/showcase/ukraine';
@@ -29,7 +29,7 @@ export const useShowcasesContent = () => {
         });
         onCloseAllNavbarMenus();
       },
-    },
+    }, */
     {
       label: t('navbar.showcases.klimaStaking'),
       onClick: () => {
