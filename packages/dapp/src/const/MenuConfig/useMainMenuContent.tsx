@@ -88,11 +88,11 @@ export const useMainMenuContent = () => {
       ),
       showMoreIcon: false,
       onClick: () => {
-        openInNewTab('https://discord.gg/lifi');
+        openInNewTab('https://discord.gg/xdextools');
         trackPageload({
           source: 'menu',
-          destination: 'discord-lifi',
-          url: 'https://discord.gg/lifi',
+          destination: 'discord-xdextools',
+          url: 'https://discord.gg/xdextools',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,
@@ -117,7 +117,7 @@ export const useMainMenuContent = () => {
       onClick: () => {
         trackPageload({
           source: 'menu',
-          destination: 'lifi-website',
+          destination: 'xdextool-website',
           url: 'https://xdextool.io',
           pageload: true,
           disableTrackingTool: [

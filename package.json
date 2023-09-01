@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "repository": "https://github.com/xdext/exchange.xdextool.io",
+  "publishConfig": {
+    "directory": "dist"
+  },
   "devDependencies": {
     "@lerna/run": "^6.6.2",
     "@types/node": "^20.5.0",
