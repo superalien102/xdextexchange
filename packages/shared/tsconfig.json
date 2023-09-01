@@ -1,0 +1,13 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "declarationDir": "dist/types"
+  },
+  "include": ["src/**/*", "../dapp/src/types/i18n.types.ts"],
+  "paths": {
+    "@transferto/dapp": ["../dapp/src"],
+    "@transferto/dapp/*": ["../dapp/src/*"]
+  }
+}

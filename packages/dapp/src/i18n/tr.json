@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "welcome": {
+      "title": "En iyi rotayı bul",
+      "subtitle": "<0>4 kez denetlenmiş</0> <1>LI.FI</1> tarafından desteklenen çok zincirli likidite toplayıcı",
+      "cta": "Başlayın"
+    },
+    "links": {
+      "exchange": "Al-Sat",
+      "dashboard": "Kontrol Paneli",
+      "refuel": "Gaz",
+      "buy": "Satın al"
+    },
+    "statsCards": {
+      "dexs": "Merkeziyetsiz Borsalar",
+      "bridges": "Köprüler",
+      "chains": "Ağlar"
+    },
+    "connectWallet": "Cüzdanı Bağla",
+    "chooseWallet": "Cüzdan Seçin",
+    "navbarMenu": {
+      "theme": "Tema",
+      "developers": "Geliştiriciler",
+      "aboutLIFI": "LI.FI Hakkında",
+      "support": "Destek"
+    },
+    "walletMenu": {
+      "disconnect": "Bağlantıyı Kes",
+      "chains": "Ağlar",
+      "switchChain": "Ağ değiştir",
+      "copy": "Kopyala",
+      "explore": "Keşfet",
+      "copiedMsg": "Cüzdan Adresi kopyalandı"
+    },
+    "language": {
+      "key": "Dil",
+      "value": "Türkçe"
+    },
+    "themes": {
+      "switchToLight": "Açık temaya geç",
+      "switchToDark": "Koyu Temaya geç",
+      "light": "Açık",
+      "dark": "Koyu",
+      "auto": "Otomatik"
+    },
+    "developers": {
+      "github": "GitHub",
+      "documentation": "Dökümantasyon",
+      "showcases": "Vitrinler"
+    },
+    "showcases": {
+      "ukraineDonation": "Ukrayna'ya destek ol 🇺🇦",
+      "klimaStaking": "Cross Chain Klima Staking",
+      "carbonOffset": "Zincirler Arası Karbon Dengesi"
+    }
+  },
+  "alert": {
+    "info": "Şu anda Test ağındasınız",
+    "testnet": "Testnet üzerinde yapacağınız hiçbir işlem Mainnet üzerinde etkili olmayacaktır.",
+    "switchToMainnet": "Mainnet'e geç"
+  },
+  "button": {
+    "okay": "Tamam"
+  },
+  "multisig": {
+    "connected": {
+      "title": "Çoklu cüzdan bağlandı",
+      "description": "Lütfen diğer cüzdan katılımcılarını imzalamaya hazır olmaları için bilgilendirin."
+    },
+    "transactionInitiated": {
+      "title": "Çoklu imza gerekiyor",
+      "description": "Lütfen diğer cüzdan katılımcılarını işlem süresi geçmeden imzalamaları için bilgilendirin."
+    },
+    "alert": {
+      "title": "Çoklu cüzdan bağlandı",
+      "description": "İşlemi tamamlamak için hedef cüzdan adresi gereklidir."
+    }
+  }
+}
