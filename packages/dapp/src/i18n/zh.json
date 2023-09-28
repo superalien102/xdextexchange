@@ -2,7 +2,7 @@
   "navbar": {
     "welcome": {
       "title": "查找最佳交易路径",
-      "subtitle": "由<1>XDEXT</1>提供技术支持，<0>高达4次审计</0>的多链流动性聚合器",
+      "subtitle": "由<1>DECENTRAL</1>提供技术支持，<0>高达4次审计</0>的多链流动性聚合器",
       "cta": "开始使用"
     },
     "links": {
@@ -21,7 +21,7 @@
     "navbarMenu": {
       "theme": "主题",
       "developers": "开发者",
-      "aboutLIFI": "关于 XDEXT",
+      "aboutLIFI": "关于 DECENTRAL",
       "support": "技术支持"
     },
     "walletMenu": {

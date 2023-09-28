@@ -113,5 +113,5 @@ export const BackgroundGradientTopCenter = styled(
   height: theme.palette.mode === 'dark' ? '100vw' : '100vh',
   opacity: theme.palette.mode === 'dark' ? '0.24' : '0.12',
   background:
-    'radial-gradient(50% 50% at 50% 50%, #9747FF 0%, rgba(255, 255, 255, 0) 100%)',
+    'radial-gradient(50% 50% at 50% 50%, #349beb 0%, rgba(255, 255, 255, 0) 100%)',
 }));

@@ -49,7 +49,7 @@ export const useDevelopersContent = () => {
       label: t('navbar.developers.documentation'),
       prefixIcon: <DescriptionOutlinedIcon />,
       onClick: () => {
-        const docsUrl = 'https://docs.xdextool.io/';
+        const docsUrl = 'https://docs.x-decentralized.com/';
         openInNewTab(docsUrl);
         trackPageload({
           source: 'menu',

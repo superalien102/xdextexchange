@@ -2,7 +2,7 @@
   "navbar": {
     "welcome": {
       "title": "หาเส้นทางที่ดีที่สุด",
-      "subtitle": "4x ในการตรวจสอบหลายเชนโดย XDEXT",
+      "subtitle": "4x ในการตรวจสอบหลายเชนโดย DECENTRAL",
       "cta": "เริ่มต้นใช้งาน"
     },
     "links": {
@@ -21,7 +21,7 @@
     "navbarMenu": {
       "theme": "ธีม",
       "developers": "ผู้พัฒนา",
-      "aboutLIFI": "เกี่ยวกับ XDEXT",
+      "aboutLIFI": "เกี่ยวกับ DECENTRAL",
       "support": "สนับสนุน"
     },
     "walletMenu": {

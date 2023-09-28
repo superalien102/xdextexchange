@@ -1,7 +1,7 @@
 {
-  "short_name": "XDEXchange",
-  "name": "XDEXchange",
-  "description": "Multi-Chain Bridging & Swapping (powered by XDEXT)",
+  "short_name": "Exchange",
+  "name": "Exchange",
+  "description": "Multi-Chain Bridging & Swapping (powered by DECENTRAL)",
   "icons": [
     {
       "src": "favicon.ico",

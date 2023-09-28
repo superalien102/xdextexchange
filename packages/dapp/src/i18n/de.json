@@ -2,7 +2,7 @@
   "navbar": {
     "welcome": {
       "title": "Finde die beste Route",
-      "subtitle": "<0>4-fach geprüfter</0> Multi-Chain-Liquiditätsaggregator unterstützt von <1>XDEXT</1>",
+      "subtitle": "<0>4-fach geprüfter</0> Multi-Chain-Liquiditätsaggregator unterstützt von <1>DECENTRAL</1>",
       "cta": "Los geht's"
     },
     "links": {
@@ -16,7 +16,7 @@
     "navbarMenu": {
       "theme": "Theme",
       "developers": "Entwickler",
-      "aboutLIFI": "Über XDEXT",
+      "aboutLIFI": "Über DECENTRAL",
       "support": "Hilfe"
     },
     "walletMenu": {

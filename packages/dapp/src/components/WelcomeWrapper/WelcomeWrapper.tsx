@@ -60,14 +60,14 @@ export const WelcomeWrapper: React.FC<
                   // eslint-disable-next-line jsx-a11y/anchor-has-content
                   <a
                     className={'link-lifi'}
-                    href="https://docs.xdextool.io/smart-contracts/audits"
+                    href="https://docs.x-decentralized.com/smart-contracts/audits"
                     target={'_blank'}
                     rel="noreferrer"
                   />,
                   // eslint-disable-next-line jsx-a11y/anchor-has-content
                   <a
                     className={'link-lifi'}
-                    href="https://xdextool.io"
+                    href="https://x-decentralized.com"
                     target={'_blank'}
                     rel="noreferrer"
                   />,

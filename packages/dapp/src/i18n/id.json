@@ -2,7 +2,7 @@
   "navbar": {
     "welcome": {
       "title": "Temukan rute terbaik",
-      "subtitle": "<0>4x diaudit</0> agregator likuiditas multi-rantai yang didukung oleh <1>XDEXT</1>",
+      "subtitle": "<0>4x diaudit</0> agregator likuiditas multi-rantai yang didukung oleh <1>DECENTRAL</1>",
       "cta": "Memulai"
     },
     "links": {
@@ -21,7 +21,7 @@
     "navbarMenu": {
       "theme": "Tema",
       "developers": "Para Pengembang",
-      "aboutLIFI": "Tentang XDEXT",
+      "aboutLIFI": "Tentang DECENTRAL",
       "support": "Bantuan"
     },
     "walletMenu": {

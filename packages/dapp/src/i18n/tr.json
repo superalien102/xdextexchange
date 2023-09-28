@@ -2,7 +2,7 @@
   "navbar": {
     "welcome": {
       "title": "En iyi rotayı bul",
-      "subtitle": "<0>4 kez denetlenmiş</0> <1>XDEXT</1> tarafından desteklenen çok zincirli likidite toplayıcı",
+      "subtitle": "<0>4 kez denetlenmiş</0> <1>DECENTRAL</1> tarafından desteklenen çok zincirli likidite toplayıcı",
       "cta": "Başlayın"
     },
     "links": {
@@ -21,7 +21,7 @@
     "navbarMenu": {
       "theme": "Tema",
       "developers": "Geliştiriciler",
-      "aboutLIFI": "XDEXT Hakkında",
+      "aboutLIFI": "DECENTRAL Hakkında",
       "support": "Destek"
     },
     "walletMenu": {

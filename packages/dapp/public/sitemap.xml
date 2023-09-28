@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://exchange.xdextool.io/</loc>
+    <loc>https://exchange.x-decentralized.com/</loc>
     <lastmod>2023-01-24</lastmod>
   </url>
   <url>
-    <loc>https://exchange.xdextool.io/swap</loc>
+    <loc>https://exchange.x-decentralized.com/swap</loc>
     <lastmod>2023-01-24</lastmod>
   </url>
   <url>
-    <loc>https://exchange.xdextool.io/gas</loc>
+    <loc>https://exchange.x-decentralized.com/gas</loc>
     <lastmod>2023-01-24</lastmod>
   </url>
   <url>
-    <loc>https://exchange.xdextool.io/refuel</loc>
+    <loc>https://exchange.x-decentralized.com/refuel</loc>
     <lastmod>2023-01-24</lastmod>
   </url>
 </urlset>

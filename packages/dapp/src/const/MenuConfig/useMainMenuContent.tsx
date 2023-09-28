@@ -30,7 +30,7 @@ export const useMainMenuContent = () => {
       ) : (
         <LightModeOutlinedIcon />
       ),
-      url: 'https://github.com/xdextool/',
+      url: 'https://github.com/x-decentralized/',
       triggerSubMenu: MenuKeys.Themes,
     },
     {
@@ -62,11 +62,11 @@ export const useMainMenuContent = () => {
       prefixIcon: <TwitterIcon />,
       showMoreIcon: false,
       onClick: () => {
-        openInNewTab('https://twitter.com/xdextools');
+        openInNewTab('https://twitter.com/x-decentralized');
         trackPageload({
           source: 'menu',
-          destination: 'twitter-xdextool',
-          url: 'https://twitter.com/xdextools',
+          destination: 'twitter-xdecentralized',
+          url: 'https://twitter.com/x-decentralized',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,
@@ -88,11 +88,11 @@ export const useMainMenuContent = () => {
       ),
       showMoreIcon: false,
       onClick: () => {
-        openInNewTab('https://t.me/xdextools');
+        openInNewTab('https://t.me/DECENTRAportal');
         trackPageload({
           source: 'menu',
           destination: 'discord-xdextools',
-          url: 'https://t.me/xdextools',
+          url: 'https://t.me/DECENTRAportal',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,
@@ -117,15 +117,15 @@ export const useMainMenuContent = () => {
       onClick: () => {
         trackPageload({
           source: 'menu',
-          destination: 'xdextool-website',
-          url: 'https://xdextool.io',
+          destination: 'xdecentralized-website',
+          url: 'https://x-decentralized.com',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,
             EventTrackingTool.Raleon,
           ],
         });
-        openInNewTab('https://xdextool.io');
+        openInNewTab('https://x-decentralized.com');
       },
     },
     {

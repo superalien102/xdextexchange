@@ -8,7 +8,7 @@ import { useTranslation } from 'react-i18next';
 import { ButtonTransparent } from '../../atoms';
 import { openInNewTab } from '../../utils';
 
-const PROD_URL = 'https://exchange.xdextool.io';
+const PROD_URL = 'https://exchange.x-decentralized.com';
 
 export const TestnetAlert = () => {
   const { t } = useTranslation();
