@@ -600,7 +600,7 @@ export const lightTheme: Theme = createTheme(
       mode: 'light',
       background: {
         default:
-          'linear-gradient(180deg, #F9F5FF 0%, #F3EBFF 49.48%, #F9F5FF 99.48%)',
+          'linear-gradient(180deg, #8fc8f5 0%, #349beb 49.48%, #8fc8f5 99.48%)',
       },
       text: {
         primary: '#000',
@@ -609,21 +609,21 @@ export const lightTheme: Theme = createTheme(
         300: '#E5E1EB',
       },
       bg: {
-        light: '#F3EBFF',
-        main: '#F3EBFF',
-        dark: '#F3EBFF',
+        light: '#349beb',
+        main: '#349beb',
+        dark: '#349beb',
         // contrastText: '#fff',
       },
       primary: {
-        light: '#31007A',
-        main: '#31007A',
-        dark: '#31007A',
+        light: '#349beb',
+        main: '#349beb',
+        dark: '#349beb',
         // contrastText: '#fff',
       },
       secondary: {
-        light: '#E9E1F5',
-        main: '#E9E1F5',
-        dark: '#E9E1F5',
+        light: '#349beb',
+        main: '#349beb',
+        dark: '#349beb',
         // contrastText: '#fff',
       },
       tertiary: {
