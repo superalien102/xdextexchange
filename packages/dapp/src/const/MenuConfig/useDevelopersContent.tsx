@@ -30,11 +30,11 @@ export const useDevelopersContent = () => {
         />
       ),
       onClick: () => {
-        const githubUrl = 'https://github.com/xdextool.io/';
+        const githubUrl = 'https://github.com/x-decentralized/';
         openInNewTab(githubUrl);
         trackPageload({
           source: 'menu',
-          destination: 'xdextool-github',
+          destination: 'xdecentralized-github',
           url: githubUrl,
           pageload: true,
           disableTrackingTool: [

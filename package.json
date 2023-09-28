@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "version": "1.0.0",
-  "repository": "https://github.com/xdext/exchange.xdextool.io",
+  "repository": "https://github.com/x-decentralized",
   "publishConfig": {
     "directory": "dist"
   },
