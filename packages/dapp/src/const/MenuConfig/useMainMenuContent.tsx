@@ -62,11 +62,11 @@ export const useMainMenuContent = () => {
       prefixIcon: <TwitterIcon />,
       showMoreIcon: false,
       onClick: () => {
-        openInNewTab('https://twitter.com/x-decentralized');
+        openInNewTab('https://twitter.com/XDecentral');
         trackPageload({
           source: 'menu',
           destination: 'twitter-xdecentralized',
-          url: 'https://twitter.com/x-decentralized',
+          url: 'https://twitter.com/XDecentral',
           pageload: true,
           disableTrackingTool: [
             EventTrackingTool.ARCx,
