@@ -615,15 +615,15 @@ export const lightTheme: Theme = createTheme(
         // contrastText: '#fff',
       },
       primary: {
-        light: '#349beb',
-        main: '#349beb',
-        dark: '#349beb',
+        light: '#31007A',
+        main: '#31007A',
+        dark: '#31007A',
         // contrastText: '#fff',
       },
       secondary: {
-        light: '#349beb',
-        main: '#349beb',
-        dark: '#349beb',
+        light: '#E9E1F5',
+        main: '#E9E1F5',
+        dark: '#E9E1F5',
         // contrastText: '#fff',
       },
       tertiary: {
